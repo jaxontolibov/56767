@@ -1,0 +1,257 @@
+.ww {
+    border: 1px solid;
+    width: 2500px;
+    height: 2700px;
+    background-image: url(https://cdn.pixabay.com/photo/2017/08/30/01/05/milky-way-2695569__340.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.box {
+    border: 1px solid ;
+    border-radius: 50%;
+    width: 300px ;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    margin: 100px;
+    margin-left: 200px;
+    background-image: linear-gradient(-45deg, rgb(255, 251, 0), red );
+}
+
+.box1 {
+    color: white;
+}
+
+.box1{
+    position: relative;
+    left: 2000px;
+    top: -200px;
+
+}
+
+.a1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.aa {
+    border: 1px solid;
+    border-radius: 10px;
+    background-color: blue;
+    width: 350px;
+    height: 180px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.aa1 {
+    border: 1px solid;
+    border-radius: 10px;
+    background-color: rgb(102, 0, 255);
+    width: 350px;
+    height: 180px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 10px;
+}
+.aa2 {
+    border: 1px solid;
+    border-radius: 10px;
+    background-color: rgb(255, 225, 0);
+    width: 350px;
+    height: 180px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 10px;
+}
+.aa3 {
+    border: 1px solid;
+    border-radius: 10px;
+    background-color: rgb(30, 255, 0);
+    width: 350px;
+    height: 180px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 10px;
+}
+.aa4 {
+    border: 1px solid;
+    border-radius: 10px;
+    background-color: rgb(255, 149, 0);
+    width: 350px;
+    height: 180px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 10px;
+}
+.aa5 {
+    border: 1px solid;
+    border-radius: 10px;
+    background-color: rgb(225, 0, 255);
+    width: 350px;
+    height: 180px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 10px;
+}
+
+.bb {
+    border: 1px solid;
+    width: 400px;
+    height: 180px;
+    background-color: red;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+.bb1 {
+    border: 1px solid;
+    width: 400px;
+    height: 180px;
+    background-color: red;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+.bb2 {
+    border: 1px solid;
+    width: 400px;
+    height: 180px;
+    background-color: red;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+.bb3 {
+    border: 1px solid;
+    width: 400px;
+    height: 180px;
+    background-color: red;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+.bb4 {
+    border: 1px solid;
+    width: 400px;
+    height: 180px;
+    background-color: red;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+.a2 {
+    margin-top: 30px;
+    margin-left: 160px;
+}
+.a3 {
+    position: relative;
+    left: 600px;
+    top: -960px;
+    right: 800px;
+}
+img {
+    border-radius: 20px;
+}
+.vv {
+    position: relative;
+    left: 660px;
+    top: -400px;
+    color: white;
+}
+h1 {
+    margin-left: 80px;
+}
+button {
+    width: 150px;
+    height: 50px;
+    border-radius: 20px;
+    background-color: green;
+    margin-left: 150px;
+}
+.a4 {
+    display: flex;
+    position: relative;
+    bottom: 140px;
+}
+.ccc {
+    border: 1px solid;
+    width: 850px;
+    height: 220px;
+    background-color: yellow;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 20px;
+    margin: 15px;
+}
+.ccc1 {
+    border: 1px solid;
+    width: 850px;
+    height: 220px;
+    background-color: rgb(34, 255, 0);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 20px;
+    margin: 15px;
+}
+.nn {
+    color: white;
+    position: relative;
+    left: 250px;
+    top: -100px;
+}
+.mm {
+    border: 1px solid;
+    width: 550px;
+    color: rgb(4, 255, 0);
+    background-color: green;
+    margin-left: 10px;
+    margin-bottom: 200px;
+}
+i {
+    margin-left: 200px;
+}
+.mm1 {
+    border: 1px solid;
+    width: 550px;
+    height: 500px;
+    color: rgb(251, 249, 251);
+    background-color: rgb(255, 0, 234);
+    margin-left: 50px;
+}
+i {
+    margin-left: 200px;
+}
+.mm2 {
+    border: 1px solid;
+    width: 550px;
+    height: 600px;
+    color: rgb(255, 0, 0);
+    background-color: rgb(0, 4, 255);
+    margin-left: 50px;
+}
+i {
+    margin-left: 200px;
+}
+.a5 {
+    display: flex;
+}
